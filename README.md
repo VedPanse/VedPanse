@@ -1,3 +1,4 @@
+```
 ██    ██ ███████ ██████      ██████   █████  ███    ██ ███████ ███████ 
 ██    ██ ██      ██   ██     ██   ██ ██   ██ ████   ██ ██      ██      
 ██    ██ █████   ██   ██     ██████  ███████ ██ ██  ██ ███████ █████   
@@ -5,7 +6,7 @@
   ████   ███████ ██████      ██      ██   ██ ██   ████ ███████ ███████ 
                                                                        
                                                                        
-
+```
 Hi, I'm **Ved Panse** — I build systems that learn, reason, and understand.
 Not just "models", not just "software" — but hybrid intelligence.
 

@@ -1,4 +1,3 @@
-```html
 <pre>
 <span style="color:#4285F4">██    ██</span> <span style="color:#DB4437">███████</span> <span style="color:#F4B400">██████</span>      <span style="color:#0F9D58">██████</span>   <span style="color:#4285F4">█████</span>  <span style="color:#DB4437">███    ██</span> <span style="color:#F4B400">███████</span> <span style="color:#0F9D58">███████</span>
 
@@ -10,7 +9,7 @@
 
 <span style="color:#4285F4">████</span>   <span style="color:#DB4437">███████</span> <span style="color:#F4B400">██████</span>      <span style="color:#0F9D58">██</span>      <span style="color:#4285F4">██   ██</span> <span style="color:#DB4437">██   ████</span> <span style="color:#F4B400">███████</span> <span style="color:#0F9D58">███████</span>
 </pre>
-```
+
 Hi, I'm **Ved Panse** — I build systems that learn, reason, and understand.
 Not just "models", not just "software" — but hybrid intelligence.
 

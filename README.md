@@ -64,7 +64,9 @@ If your work involves any of the following, we should probably talk:
 **Languages:** Rust, C++, Kotlin, Swift, Go, Python, TypeScript  
 **AI/ML:** PyTorch, JAX, multimodal transformers, diffusion models  
 **Systems:** LLVM, IR design, static/dynamic analysis, embedded tooling  
-**Other:** 3D perception, sensor fusion frameworks, real-time pipelines  
+**Other:** 3D perception, sensor fusion frameworks, real-time pipelines
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedPanse&layout=compact&theme=transparent)
 
 ---------------------------------------------------------------------------
 

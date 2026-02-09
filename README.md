@@ -66,7 +66,12 @@ If your work involves any of the following, we should probably talk:
 **Systems:** LLVM, IR design, static/dynamic analysis, embedded tooling  
 **Other:** 3D perception, sensor fusion frameworks, real-time pipelines
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedPanse&layout=compact&theme=transparent)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift)
+
 
 ---------------------------------------------------------------------------
 

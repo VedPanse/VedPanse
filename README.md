@@ -10,10 +10,11 @@ Hi, I'm **Ved Panse** — I build systems that learn, reason, and understand.
 Not just "models", not just "software" — but hybrid intelligence.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ---------------------------------------------------------------------------
 
